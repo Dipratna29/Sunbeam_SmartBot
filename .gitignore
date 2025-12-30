@@ -1,0 +1,4 @@
+envp/
+.env
+courses_db/
+__pycache__/
