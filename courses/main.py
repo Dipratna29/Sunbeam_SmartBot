@@ -1,88 +1,55 @@
-# from test import run_modular_courses_scraper
+from courses1 import scrape_core_java_course
+from courses2 import scrape_python_course
+from courses3 import scrape_devops_course
+from courses4 import scrape_mern_course
+from courses5 import scrape_ml_course
+from courses6 import scrape_dsa_java_course
+from courses7 import scrape_genai_course
+from courses8 import scrape_aptitude_course
+from courses9 import scrape_mcqs_course
+from courses10 import scrape_spark_course
+from courses11 import scrape_mlops_course
+from courses12 import scrape_dream_llm_course
 
-# print(run_modular_courses_scraper())
 
-from configuration import get_embedding_model, get_collection, llm_config
-import streamlit as st
+def main():
 
-
-# def course_chatbot():
-st.title("🎓 Sunbeam Courses SmartBot")
-
-query_text = st.chat_input("Ask about courses, syllabus, fees, duration...")
-
-if "conversation" not in st.session_state:
-    st.session_state.conversation = [
-        {"role": "system", "content": "You are an expert course advisor for Sunbeam."}
-    ]
-
-if query_text:
-    st.session_state.conversation.append({
-        "role": "user",
-        "content": query_text
-    })
-
-    embed_model = get_embedding_model()
-    collection = get_collection()
-
-    # 🔹 Embed query
-    query_embedding = embed_model.embed_query(query_text)
-
-    # 🔹 Query vector DB
-    results = collection.query(
-        query_embeddings=[query_embedding],
-        n_results=10,
-        include=["documents", "metadatas"]
-    )
-
-    if not results["documents"] or not results["documents"][0]:
-        st.error("No relevant course found.")
+    print("=== Running Core Java Course Scraper ===")
+    scrape_core_java_course()
     
+    print("\n=== Running Python Course Scraper ===")
+    scrape_python_course()
 
-    # 🔹 Prepare context for LLM
-    course_context = []
-    for i in range(len(results["documents"][0])):
-        meta = results["metadatas"][0][i]
+    print("\n=== Running DevOps Course Scraper ===")
+    scrape_devops_course()
 
-        course_context.append(f"""
-Course Title: {meta.get("course_title", "N/A")}
-Section: {meta.get("section", "N/A")}
-URL: {meta.get("url", "N/A")}
+    print("\n=== MERN Course ===")
+    scrape_mern_course()
 
-Content:
-{results["documents"][0][i]}
-""")
+    print("\n=== Machine Learning Course ===")
+    scrape_ml_course()
 
-    context_text = "\n\n---\n\n".join(course_context)
+    print("\n=== DSA Using Java Course ===")
+    scrape_dsa_java_course()
 
-    # 🔹 LLM Prompt
-    llm_prompt = f"""
-You are a professional course advisor.
+    print("\n=== Mastering Generative AI Course ===")
+    scrape_genai_course()
 
-User Query:
-{query_text}
+    print("\n=== Aptitude Course ===")
+    scrape_aptitude_course()
 
-Use ONLY the information below to answer.
-Be concise, accurate, and helpful.
-If fees, duration, or eligibility is asked — mention clearly.
+    print("\n=== Mastering MCQs Course ===")
+    scrape_mcqs_course()
 
-Course Data:
-{context_text}
+    print("\n=== Apache Spark Course ===")
+    scrape_spark_course()
 
-Answer:
-"""
+    print("\n=== MLOps & LLMOps Course ===")
+    scrape_mlops_course()
 
-    llm = llm_config()
-    answer = llm.invoke(llm_prompt)
+    print("\n=== Dream LLM Course ===")
+    scrape_dream_llm_course()
 
-    st.session_state.conversation.append({
-        "role": "assistant",
-        "content": answer.content
-    })
 
-# 🔹 Render chat history
-for msg in st.session_state.conversation:
-    if msg["role"] != "system":
-        with st.chat_message(msg["role"]):
-            st.write(msg["content"])
-
+if __name__ == "__main__":
+    main()
