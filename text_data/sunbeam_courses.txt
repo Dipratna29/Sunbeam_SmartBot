@@ -1,0 +1,147 @@
+SUNBEAM MODULAR COURSES
+====================================================================================================
+
+APACHE SPARK MASTERY - DATA ENGINEERING WITH PYSPARK
+
+Batch Schedule: 16-Aug-2025   To   17-Sep-2025
+Schedule: Mon-Sat
+Duration: 50 hrs.
+Timings: 7:00 PM  To  9:00 PM
+Fees: Rs. 14900/-(Inc.18% GST)
+
+1. Outcome
+Master PySpark DataFrames/SQL for batch & stream processing
+Build optimized pipelines using Catalyst insights
+
+----------------------------------------------------------------------------------------------------
+
+APTITUDE
+
+Batch Schedule: 02-Feb-2026   To   23-Feb-2026
+Schedule: Mon - Fri
+Duration: 30 hrs.
+Timings: 6:00 PM  To  9:00 PM
+Fees: Rs. 4000/- 3400 Early Bird Offer
+
+----------------------------------------------------------------------------------------------------
+
+C++
+
+Batch Schedule: 23-Jan-2026   To   20-Feb-2026
+Schedule: Weekdays - (Mon-Fri)
+Duration: 60 Hrs
+Timings: 5:00 PM  To  8:00 PM
+Fees: Rs. 7000/- 5900 Early Bird Offer
+
+----------------------------------------------------------------------------------------------------
+
+CORE JAVA
+
+Batch Schedule: 23-Jan-2026   To   20-Feb-2026
+Schedule: Weekdays - (Mon-Fri)
+Duration: 80 Hrs
+Timings: 9:00 AM  To  1:00 PM
+Fees: Rs. 8000/- 6800 Early Bird Offer
+
+----------------------------------------------------------------------------------------------------
+
+DATA STRUCTURES AND ALGORITHMS
+
+Batch Schedule: 29-Jan-2026   To   20-Feb-2026
+Schedule: Weekdays - (Mon-Sat)
+Duration: 60 HRS
+Timings: 5:00 PM  To  8:00 PM
+Fees: Rs. 7000/- 5900 Early Bird Offer
+
+----------------------------------------------------------------------------------------------------
+
+DEV OPS
+
+Batch Schedule: 15-Sep-2025   To   20-Nov-2025
+Schedule: Mon - Thu
+Duration: 80 Hrs
+Timings: 9:00 PM  To  11:00 PM
+Fees: Rs. 11100/-
+
+1. Syllabus
+Week 1: Linux
+
+----------------------------------------------------------------------------------------------------
+
+DREAM LLM
+
+Batch Schedule: 05-Jan-2026   To   09-Feb-2026
+Schedule: Monday - Thursday
+Duration: 5 weeks
+Timings: 9:00 PM  To  11:00 PM
+Fees: Rs. INR 20000/- 12000/-(Inc.18% GST)
+
+----------------------------------------------------------------------------------------------------
+
+MACHINE LEARNING
+
+Batch Schedule: 26-Oct-2023   To   28-Nov-2023
+Schedule: Weekdays - (Mon -Fri)
+Duration: 40 hrs.
+Timings: 07:30 AM  To  9:30 AM
+Fees: Rs. 7500/- (Inc. 18% GST)
+
+----------------------------------------------------------------------------------------------------
+
+MASTERING GENAI
+
+Batch Schedule: 14-Jul-2025   To   03-Sep-2025
+Schedule: Mon - Thu
+Duration: 60 Hrs
+Timings: 9:00 PM  To  11:00 PM
+Fees: Rs. 17900/-
+
+1. Target Audience
+Join Amit Kulkarni, an industry expert and certified AI specialist, as he walks you through the Mastering GenAI course at Sunbeam Pune. This program is designed to help you understand, build, and innovate with AI-powered solutions.
+
+----------------------------------------------------------------------------------------------------
+
+MASTERING MCQS
+
+Batch Schedule: 11-Dec-2025   To   08-Jan-2026
+Schedule: Mon-Fri
+Duration: 1 Month
+Timings: 11:00 AM  To  12:30 PM
+Fees: Rs. 3000/-
+
+----------------------------------------------------------------------------------------------------
+
+MERN (FULL-STACK) DEVELOPMENT
+
+Batch Schedule: 02-Jun-2025   To   03-Jul-2025
+Schedule: Mon-Thu
+Duration: 40 hrs.
+Timings: 09:00 PM  To  11:00 PM
+Fees: Rs. 9100/-
+
+1. Syllabus
+NODE
+Introduction
+
+----------------------------------------------------------------------------------------------------
+
+MLOPS & LLMOPS
+
+Batch Schedule: 24-Nov-2025   To   05-Dec-2025
+Schedule: Monday to Friday (9pm to 11pm)
+Duration: 2 weeks
+Timings: 9:00 PM  To  11:00 PM
+Fees: Rs. 8000/- Special Offer for Sunbeam Alumni 5900
+
+----------------------------------------------------------------------------------------------------
+
+PYTHON DEVELOPMENT
+
+Batch Schedule: 23-Jan-2026   To   20-Feb-2026
+Schedule: Mon - Fri
+Duration: 50 hrs.
+Timings: 8:00 AM  To  10:30 AM
+Fees: Rs. 8100/- 6800 Early Bird Offer
+
+----------------------------------------------------------------------------------------------------
+
