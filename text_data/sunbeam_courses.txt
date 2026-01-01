@@ -1,147 +1,1671 @@
-SUNBEAM MODULAR COURSES
-====================================================================================================
 
-APACHE SPARK MASTERY - DATA ENGINEERING WITH PYSPARK
+==========================================================================================
+COURSE: CORE JAVA
+==========================================================================================
 
-Batch Schedule: 16-Aug-2025   To   17-Sep-2025
-Schedule: Mon-Sat
-Duration: 50 hrs.
-Timings: 7:00 PM  To  9:00 PM
-Fees: Rs. 14900/-(Inc.18% GST)
+Course Name : Core Java
+Batch Schedule : 23-Jan-2026   To   20-Feb-2026
+Schedule : Weekdays - (Mon-Fri)
+Duration : 80 Hrs
+Timings : 9:00 AM  To  1:00 PM
+Fees : Rs. 8000/- 6800 Early Bird Offer
 
-1. Outcome
-Master PySpark DataFrames/SQL for batch & stream processing
-Build optimized pipelines using Catalyst insights
+SYLLABUS
+- Java Language Fundamentals
+Java language features
+Overview of JDK, JRE and JVM
+Data types and wrapper classes
+Package, path and classpath
+Arrays, Enum, jar file
+- Java language features
+- Overview of JDK, JRE and JVM
+- Data types and wrapper classes
+- Package, path and classpath
+- Arrays, Enum, jar file
+- OOPs Concept
+Class, reference, instance
+Constructor chaining
+Object class
+Static initializer block
+Association and inheritance
+Polymorphism and dynamic method dispatch
+Abstract class and Interface
+- Class, reference, instance
+- Constructor chaining
+- Object class
+- Static initializer block
+- Association and inheritance
+- Polymorphism and dynamic method dispatch
+- Abstract class and Interface
+- Exception Handling
+Error and exception
+Checked and unchecked Exception
+Try-with-resource
+Multi-catch block
+Custom exception
+Chained exceptions
+- Error and exception
+- Checked and unchecked Exception
+- Try-with-resource
+- Multi-catch block
+- Custom exception
+- Chained exceptions
+- Functional Programming Fundamentals
+Nested and local class
+Anonymous inner class
+Functional interface
+Lambda expression
+Method and constructor references
+Constructor Reference
+- Nested and local class
+- Anonymous inner class
+- Functional interface
+- Lambda expression
+- Method and constructor references
+- Constructor Reference
+- Generics
+Boxing/Auto-Boxing and Unboxing/Auto-Unboxing
+Parameterized type
+Bounded type parameter
+Wild Card and its type
+Generic method
+- Boxing/Auto-Boxing and Unboxing/Auto-Unboxing
+- Parameterized type
+- Bounded type parameter
+- Wild Card and its type
+- Generic method
+- String Handling
+ Overview of UNICODE
+String, StringBuffer and StringBuilder
+StringTokenizer
+Regular expression
+- Overview of UNICODE
+- String, StringBuffer and StringBuilder
+- StringTokenizer
+- Regular expression
+- Collection Framework
+Comparable versus Comparator
+List, ArrayList, Vector
+Set, TreeSet
+Hashing
+HashSet, Hashtable and HashMap
+Java 8 Streams
+- Comparable versus Comparator
+- List, ArrayList, Vector
+- Set, TreeSet
+- Hashing
+- HashSet, Hashtable and HashMap
+- Java 8 Streams
+- Multithreading
+ Advantages & issues of process & thread
+Thread class and Runnable
+Thread States, life cycle
+Race condition, deadlock, monitor
+Synchronization and Object class
+- Advantages & issues of process & thread
+- Thread class and Runnable
+- Thread States, life cycle
+- Race condition, deadlock, monitor
+- Synchronization and Object class
+- File IO 
+Path basics
+Text file and binary file processing
+Serialization and deserialization
+SerialVersionUID
+- Path basics
+- Text file and binary file processing
+- Serialization and deserialization
+- SerialVersionUID
+- Reflection
+Metadata and its application
+java.lang.Class class
+Overview of reflection classes and interfaces
+Dynamic method invocation
+- Metadata and its application
+- java.lang.Class class
+- Overview of reflection classes and interfaces
+- Dynamic method invocation
 
-----------------------------------------------------------------------------------------------------
+PRE-REQUISITES
+- OOP concepts: Class, Object, overloading, constructor, inheritance and virtual function.
 
-APTITUDE
+BATCH SCHEDULE
+Batch Code: CJ-O-17 | Start: 23-Jan-2026 | End: 20-Feb-2026 | Time: 9:00 AM  To  1:00 PM
 
-Batch Schedule: 02-Feb-2026   To   23-Feb-2026
-Schedule: Mon - Fri
-Duration: 30 hrs.
-Timings: 6:00 PM  To  9:00 PM
-Fees: Rs. 4000/- 3400 Early Bird Offer
 
-----------------------------------------------------------------------------------------------------
+==========================================================================================
+COURSE: PYTHON DEVELOPMENT
+==========================================================================================
 
-C++
+Course Name : Python Development
+Batch Schedule : 23-Jan-2026   To   20-Feb-2026
+Schedule : Mon - Fri
+Duration : 50 hrs.
+Timings : 8:00 AM  To  10:30 AM
+Fees : Rs. 8100/- 6800 Early Bird Offer
 
-Batch Schedule: 23-Jan-2026   To   20-Feb-2026
-Schedule: Weekdays - (Mon-Fri)
-Duration: 60 Hrs
-Timings: 5:00 PM  To  8:00 PM
-Fees: Rs. 7000/- 5900 Early Bird Offer
+SYLLABUS
+- Python Fundamentals and Environment Setup
+Introduction to Python
+Applications of Python in Machine Learning, Backend, Automation
+Installing Python on Windows, macOS, Linux
+Python interpreters and virtual environments
+Running Python programs
+Script mode vs interactive mode
+Basic coding standards and best practices
+- Introduction to Python
+- Applications of Python in Machine Learning, Backend, Automation
+- Installing Python on Windows, macOS, Linux
+- Python interpreters and virtual environments
+- Running Python programs
+- Script mode vs interactive mode
+- Basic coding standards and best practices
+- Core Python Syntax and Data Types
+Variables and naming conventions
+Built-in data types: int, float, complex, bool, string
+Type conversion and type checking
+Input and output operations
+Understanding Python memory basics
+- Variables and naming conventions
+- Built-in data types: int, float, complex, bool, string
+- Type conversion and type checking
+- Input and output operations
+- Understanding Python memory basics
+- Control Flow and Decision Making
+if, elif, else statements
+Nested conditions
+Logical and comparison operators
+Real-world decision-making examples
+Loops and Iterations
+for loop
+while loop
+range function
+break, continue, pass
+Nested loops
+Common looping patterns
+- if, elif, else statements
+- Nested conditions
+- Logical and comparison operators
+- Real-world decision-making examples
+- Loops and Iterations
+- for loop
+- while loop
+- range function
+- break, continue, pass
+- Nested loops
+- Common looping patterns
+- Python Data Structures
+Lists
+Creation, indexing, slicing
+List operations and methods
+List comprehensions
+Tuples
+Tuple creation
+Tuple vs list
+Use cases and immutability
+Sets
+Set creation
+Set operations
+Mathematical set concepts
+Dictionaries
+Key-value pairs
+CRUD operations
+Nested dictionaries
+Handling JSON-like data
+- Lists
+Creation, indexing, slicing
+List operations and methods
+List comprehensions
+- Creation, indexing, slicing
+- List operations and methods
+- List comprehensions
+- Tuples
+Tuple creation
+Tuple vs list
+Use cases and immutability
+- Tuple creation
+- Tuple vs list
+- Use cases and immutability
+- Sets
+Set creation
+Set operations
+Mathematical set concepts
+- Set creation
+- Set operations
+- Mathematical set concepts
+- Dictionaries
+Key-value pairs
+CRUD operations
+Nested dictionaries
+Handling JSON-like data
+- Key-value pairs
+- CRUD operations
+- Nested dictionaries
+- Handling JSON-like data
+- Strings and Text Processing
+String operations
+Common string methods
+String formatting using f-strings
+Text manipulation and cleaning basics
+- String operations
+- Common string methods
+- String formatting using f-strings
+- Text manipulation and cleaning basics
+- Functions and Modular Programming
+Defining and calling functions
+Function arguments: positional, keyword, default
+args and kwargs
+Return values
+Scope: local and global
+Creating reusable modules
+- Defining and calling functions
+- Function arguments: positional, keyword, default
+- args and kwargs
+- Return values
+- Scope: local and global
+- Creating reusable modules
+- Object-Oriented Programming in Python
+OOP concepts and importance
+Classes and objects
+Constructors
+Instance variables and class variables
+Methods
+Encapsulation
+Inheritance
+Polymorphism
+Introduction to magic methods
+Real-world OOP examples
+- OOP concepts and importance
+- Classes and objects
+- Constructors
+- Instance variables and class variables
+- Methods
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Introduction to magic methods
+- Real-world OOP examples
+- Error Handling and Debugging
+Types of errors in Python
+try, except, else, finally
+Creating custom exceptions
+Debugging techniques
+Writing robust code
+- Types of errors in Python
+- try, except, else, finally
+- Creating custom exceptions
+- Debugging techniques
+- Writing robust code
+- File Handling and Data Input Output
+Reading and writing text files
+Working with CSV files
+Working with JSON files
+File handling best practices
+Introduction to logging
+- Reading and writing text files
+- Working with CSV files
+- Working with JSON files
+- File handling best practices
+- Introduction to logging
+- Working with Dates, Time and Utilities
+Datetime module
+Time module
+Date formatting and parsing
+Timestamps and timers
+- Datetime module
+- Time module
+- Date formatting and parsing
+- Timestamps and timers
+- Python Standard Library Overview
+os and sys modules
+math and random modules
+collections module
+itertools introduction
+Useful built-in functions
+- os and sys modules
+- math and random modules
+- collections module
+- itertools introduction
+- Useful built-in functions
+- Introduction to Data Handling for Machine Learning
+Importance of data in ML
+Introduction to NumPy: Arrays and vectorized operations
+Introduction to Pandas: DataFrames and Series
+Reading datasets
+Basic data exploration and cleaning
+- Importance of data in ML
+- Introduction to NumPy: Arrays and vectorized operations
+- Introduction to Pandas: DataFrames and Series
+- Reading datasets
+- Basic data exploration and cleaning
+- Python for Backend Development Foundations
+Role of Python in backend systems
+Basics of HTTP and REST APIs
+Introduction to Flask and FastAPI concepts
+Request and response lifecycle
+JSON handling in backend
+Basic database interaction concepts
+- Role of Python in backend systems
+- Basics of HTTP and REST APIs
+- Introduction to Flask and FastAPI concepts
+- Request and response lifecycle
+- JSON handling in backend
+- Basic database interaction concepts
+- Database connectivity
+Introduction to MySQL and SQLite
+Database design basics (tables, rows, columns, keys)
+CRUD operations using SQL
+Connecting Python with databases
+Using Python database connectors
+Executing queries from Python
+Handling database transactions
+Error handling in database operations
+- Introduction to MySQL and SQLite
+- Database design basics (tables, rows, columns, keys)
+- CRUD operations using SQL
+- Connecting Python with databases
+- Using Python database connectors
+- Executing queries from Python
+- Handling database transactions
+- Error handling in database operations
+- Mini Project
+Data-oriented mini project for ML foundation
+Backend-oriented mini project using Python logic
+Emphasis on clean code and problem-solving
+- Data-oriented mini project for ML foundation
+- Backend-oriented mini project using Python logic
+- Emphasis on clean code and problem-solving
 
-----------------------------------------------------------------------------------------------------
+PRE-REQUISITES
+- Any programming language
 
-CORE JAVA
+BATCH SCHEDULE
+Batch Code: Python-O-15 | Start: 23-Jan-2026 | End: 20-Feb-2026 | Time: 8:00 AM  To  10:30 AM
 
-Batch Schedule: 23-Jan-2026   To   20-Feb-2026
-Schedule: Weekdays - (Mon-Fri)
-Duration: 80 Hrs
-Timings: 9:00 AM  To  1:00 PM
-Fees: Rs. 8000/- 6800 Early Bird Offer
 
-----------------------------------------------------------------------------------------------------
+==========================================================================================
+COURSE: DEVOPS
+==========================================================================================
 
-DATA STRUCTURES AND ALGORITHMS
+Course Name : Dev Ops
+Batch Schedule : 15-Sep-2025   To   20-Nov-2025
+Schedule : Mon - Thu
+Duration : 80 Hrs
+Timings : 9:00 PM  To  11:00 PM
+Fees : Rs. 11100/-
 
-Batch Schedule: 29-Jan-2026   To   20-Feb-2026
-Schedule: Weekdays - (Mon-Sat)
-Duration: 60 HRS
-Timings: 5:00 PM  To  8:00 PM
-Fees: Rs. 7000/- 5900 Early Bird Offer
+SYLLABUS
+- DevOps
+Introduction to DevOps
+SDLC and Agile fundamentals
+DevOps Lifecyle
+Introduction to the Tools used in DevOps Lifecyle
+- Introduction to DevOps
+- SDLC and Agile fundamentals
+- DevOps Lifecyle
+- Introduction to the Tools used in DevOps Lifecyle
+- Linux
+Installation and configuration using VM
+Booting
+File System
+Working with Text files
+Archiving and compressing files
+User and Group management
+File Permissions
+Package management
+Systemd management
+- Installation and configuration using VM
+- Booting
+- File System
+- Working with Text files
+- Archiving and compressing files
+- User and Group management
+- File Permissions
+- Package management
+- Systemd management
+- Foundation of VCS
+- What is Git?
+- Git Workflow
+- Git Internals
+- Demystifying branching
+- Collaboration with GitHub
+- Virtualization
+- Hardware virtualization vs Containerization
+- Docker fundamentals
+- Architecture
+- Installation and configuration
+- Image management
+- Container management
+- Docker network
+- Persisting data with Docker volumes
+- Container Orchestration with Docker Swarm
+- Introducing Kubernetes and its features
+- Architecture
+- Installation of configuration of Kubernetes cluster
+- Pod management
+- Secrets and ConfigMaps
+- Service and Networking
+- State persistence with PersistentVolumes and PersistentVolumeClaims
+- Observability
+- Probes
+- Introduction to CI/CD pipeline
+- Jenkins cluster installation and configuration
+- Configuration of pipeline
+- Scripted pipeline
+- Implementing security with Jenkins
+- Setting up notifications
+- Using Jenkinsfile
+- Introduction to Cloud
+- What is AWS?
+- AWS Services
+Compute Services:
+EC2 instance
+VPC
+Lambda
+Storage Services: S3
+Database Services: RDS (MySQL)
+DevOps Services: CodeCommit, CodeBuild, CodeDeploy, X-Ray
+Container Services: ECS, EKS
+- Compute Services:
+EC2 instance
+VPC
+Lambda
+- EC2 instance
+- VPC
+- Lambda
+- Storage Services: S3
+- Database Services: RDS (MySQL)
+- DevOps Services: CodeCommit, CodeBuild, CodeDeploy, X-Ray
+- Container Services: ECS, EKS
+- Infrastructure as a Code
+- Installation and Configuration
+- Terraform foundation
+- Workflow
+- Terraform modules
+- Implementing and maintaining states
+- HCP Terraform
+- Introduction to Ansible
+- Pull vs Push method
+- Installation and Configuration
+- Architecture and Design of Ansible
+- Diving into playbooks
+- Using Ansible with cloud
+- Using Ansible with containers
+- Modules and plugins
 
-----------------------------------------------------------------------------------------------------
+PRE-REQUISITES
+- Basic Linux administration
 
-DEV OPS
+BATCH SCHEDULE
+Batch Code: Dev Ops-O-06 | Start: 15-Sep-2025 | End: 20-Nov-2025 | Time: 9:00 PM  To  11:00 PM
 
-Batch Schedule: 15-Sep-2025   To   20-Nov-2025
-Schedule: Mon - Thu
-Duration: 80 Hrs
-Timings: 9:00 PM  To  11:00 PM
-Fees: Rs. 11100/-
 
-1. Syllabus
-Week 1: Linux
+==========================================================================================
+COURSE: MERN FULL STACK DEVELOPER
+==========================================================================================
 
-----------------------------------------------------------------------------------------------------
+Course Name : MERN (FULL-STACK) DEVELOPMENT
+Batch Schedule : 02-Jun-2025   To   03-Jul-2025
+Schedule : Mon-Thu
+Duration : 40 hrs.
+Timings : 09:00 PM  To  11:00 PM
+Fees : Rs. 9100/-
 
-DREAM LLM
+SYLLABUS
+- Introduction
+what is node
+advantages and limitations
+- what is node
+- advantages and limitations
+- Environment setup
+install node
+create a new project
+configure project properties
+debugging node application
+- install node
+- create a new project
+- configure project properties
+- debugging node application
+- Basics
+introduction to npm
+introduction to package.json
+importing npm modules
+command line arguments
+node async vs sync
+threading model
+- introduction to npm
+- introduction to package.json
+- importing npm modules
+- command line arguments
+- node async vs sync
+- threading model
+- microservices
+introduction to microservices
+developing microservices using js
+configuration
+deployment
+- introduction to microservices
+- developing microservices using js
+- configuration
+- deployment
+- Http
+creating web server
+calling REST apis
+- creating web server
+- calling REST apis
+- Express
+introduction to express
+create new project
+express routes and router
+middleware
+connecting to database
+adding authentication
+- introduction to express
+- create new project
+- express routes and router
+- middleware
+- connecting to database
+- adding authentication
+- Node modules
+file system
+buffer
+express
+crypto-js
+multer
+mysql2
+postgres
+moment
+passport
+morgan
+- file system
+- buffer
+- express
+- crypto-js
+- multer
+- mysql2
+- postgres
+- moment
+- passport
+- morgan
+- Setting up environment
+installing nodejs
+installing and configuring babel
+installing and configuring webpack
+- installing nodejs
+- installing and configuring babel
+- installing and configuring webpack
+- Introduction to SPA
+what is single page architecture?
+SPA architecture
+Pros and Cons
+other SPA frameworks
+- what is single page architecture?
+- SPA architecture
+- Pros and Cons
+- other SPA frameworks
+- React fundamentals
+introduction to components
+component oriented architecture
+what components ?
+environment setup for react and react native
+build workflow
+- introduction to components
+- component oriented architecture
+- what components ?
+- environment setup for react and react native
+- build workflow
+- React basics
+hello world react app
+creating functional component
+creating dynamic output
+component lifecycle
+debugging react application
+working with props
+styling react component
+- hello world react app
+- creating functional component
+- creating dynamic output
+- component lifecycle
+- debugging react application
+- working with props
+- styling react component
+- Introduction to state management
+rules of state management
+initializing state through constructors
+updating state properties
+app lifecycle
+handling errors
+- rules of state management
+- initializing state through constructors
+- updating state properties
+- app lifecycle
+- handling errors
+- Introduction to Redux
+why redux?
+pros and cons
+redux architecture
+actions
+store
+reducers
+- why redux?
+- pros and cons
+- redux architecture
+- actions
+- store
+- reducers
+- Advanced Redux concepts and integration
+connecting react to redux
+mapStateToProps
+mapDispatchToProps
+async in redux
+async status and error handling
+- connecting react to redux
+- mapStateToProps
+- mapDispatchToProps
+- async in redux
+- async status and error handling
+- Basic and advanced Routing
+introduction to routing
+root level routing
+child level routing
+- introduction to routing
+- root level routing
+- child level routing
+- React hooks
+what is hook?
+rules of hook
+using state hook
+using effect hook
+building custom hook
+- what is hook?
+- rules of hook
+- using state hook
+- using effect hook
+- building custom hook
+- Handling online payment
+connecting react with online payment gateway
+- connecting react with online payment gateway
+- Testing React components
+testing overview
+setting up environment
+testing react components
+- testing overview
+- setting up environment
+- testing react components
 
-Batch Schedule: 05-Jan-2026   To   09-Feb-2026
-Schedule: Monday - Thursday
-Duration: 5 weeks
-Timings: 9:00 PM  To  11:00 PM
-Fees: Rs. INR 20000/- 12000/-(Inc.18% GST)
+PRE-REQUISITES
+- Object Oriented Programming Concepts
 
-----------------------------------------------------------------------------------------------------
+BATCH SCHEDULE
+Batch Code: MERN-O-03 | Start: 02-Jun-2025 | End: 03-Jul-2025 | Time: 09:00 PM  To  11:00 PM
 
-MACHINE LEARNING
 
-Batch Schedule: 26-Oct-2023   To   28-Nov-2023
-Schedule: Weekdays - (Mon -Fri)
-Duration: 40 hrs.
-Timings: 07:30 AM  To  9:30 AM
-Fees: Rs. 7500/- (Inc. 18% GST)
+==========================================================================================
+COURSE: MACHINE LEARNING
+==========================================================================================
 
-----------------------------------------------------------------------------------------------------
+Course Name : Machine Learning
+Batch Schedule : 26-Oct-2023   To   28-Nov-2023
+Schedule : Weekdays - (Mon -Fri)
+Duration : 40 hrs.
+Timings : 07:30 AM  To  9:30 AM
+Fees : Rs. 7500/- (Inc. 18% GST)
 
-MASTERING GENAI
+SYLLABUS
+- Introduction to Machine Learning
+Big picture of machine learning
+Why machine learning is needed?
+Types of machine learning
+Challenges of machine learning
+Creating machine learning pipeling
+End-to-end process
+- Big picture of machine learning
+- Why machine learning is needed?
+- Types of machine learning
+- Challenges of machine learning
+- Creating machine learning pipeling
+- End-to-end process
+- Regression 
+Understanding statistical regression
+Performing regression with
+Simple linear regressison
+Multiple linear regression
+Support vector machine
+Evaluating models using RMSE, MSE, MAE etc
+- Understanding statistical regression
+- Performing regression with
+Simple linear regressison
+Multiple linear regression
+Support vector machine
+- Simple linear regressison
+- Multiple linear regression
+- Support vector machine
+- Evaluating models using RMSE, MSE, MAE etc
+- Classification
+Understanding need of classification
+Classification vs regression
+Performing classification with
+Logistic regression
+Support vector machine
+Decision trees
+K nearest neighbours
+Evaluating models using AuC and RoC etc
+- Understanding need of classification
+- Classification vs regression
+- Performing classification with
+Logistic regression
+Support vector machine
+Decision trees
+K nearest neighbours
+- Logistic regression
+- Support vector machine
+- Decision trees
+- K nearest neighbours
+- Evaluating models using AuC and RoC etc
+- Ensemble Learning
+What is ensemble learning
+Need of ensemble learning
+Types of ensemble learning
+Bagging
+Random forest
+Boosting
+Gradient boosting
+Xgboost
+Stacking
+- What is ensemble learning
+- Need of ensemble learning
+- Types of ensemble learning
+Bagging
+Random forest
+Boosting
+Gradient boosting
+Xgboost
+Stacking
+- Bagging
+Random forest
+- Random forest
+- Boosting
+Gradient boosting
+Xgboost
+- Gradient boosting
+- Xgboost
+- Stacking
+- Clustering
+Why clustering is needed?
+Performing clustering using
+Hierarchical clustering
+K meaning clustering
+- Why clustering is needed?
+- Performing clustering using
+Hierarchical clustering
+K meaning clustering
+- Hierarchical clustering
+- K meaning clustering
+- Association Rule Mining
+Where association rule mining is needed
+Performing association rule mining using
+Apriori
+- Where association rule mining is needed
+- Performing association rule mining using
+Apriori
+- Apriori
+- Dimensionality Reduction
+Introduction to feature extraction
+What is dimensionality reduction?
+Performing dimensionality reduction using
+PCA
+- Introduction to feature extraction
+- What is dimensionality reduction?
+- Performing dimensionality reduction using
+PCA
+- PCA
+- Introdution to Deep Learning
+What is deep learning?
+Introduction to artificial networking
+Introduction to TensorFlow and Keras
+Introduction MLPs with Keras
+- What is deep learning?
+- Introduction to artificial networking
+- Introduction to TensorFlow and Keras
+- Introduction MLPs with Keras
+- Convolutional Neural Network
+Deep computer vision using CNN
+Introduction to images and convolutions
+CNN architecture
+Image classification using CNN
+Object detection using CNN
+- Deep computer vision using CNN
+- Introduction to images and convolutions
+- CNN architecture
+- Image classification using CNN
+- Object detection using CNN
+- Recurrent Neural Network
+Introduction to RNN
+Processing sequences using RNN
+Training RNN
+Forecasting time series using TensorFlow
+Naural language processing using RNN
+- Introduction to RNN
+- Processing sequences using RNN
+- Training RNN
+- Forecasting time series using TensorFlow
+- Naural language processing using RNN
+- Representation Learning and GANs
+Introduction to autoencoders
+Stacked autoencoders
+Introduction to GAN
+- Introduction to autoencoders
+- Stacked autoencoders
+- Introduction to GAN
+- Reinforcement Learning
+Introduction to reinforcement learning
+Introduction to OpenAI gym
+Q-learning
+Deep Q-Learning
+- Introduction to reinforcement learning
+- Introduction to OpenAI gym
+- Q-learning
+- Deep Q-Learning
+- Deploying model on cloud (AWS)
+Saving models
+Serving TensorFlow model
+- Saving models
+- Serving TensorFlow model
 
-Batch Schedule: 14-Jul-2025   To   03-Sep-2025
-Schedule: Mon - Thu
-Duration: 60 Hrs
-Timings: 9:00 PM  To  11:00 PM
-Fees: Rs. 17900/-
+PRE-REQUISITES
+- Python fundamentals
+Collections
+Functions
+Classes
+Decorators
+Packages
+Numpy
+Pandas
+Matplotlib
 
-1. Target Audience
-Join Amit Kulkarni, an industry expert and certified AI specialist, as he walks you through the Mastering GenAI course at Sunbeam Pune. This program is designed to help you understand, build, and innovate with AI-powered solutions.
+BATCH SCHEDULE
+Batch Code: ML-O-07 | Start: 26-Oct-2023 | End: 28-Nov-2023 | Time: 07:30 AM  To  9:30 AM
 
-----------------------------------------------------------------------------------------------------
 
-MASTERING MCQS
+==========================================================================================
+COURSE: DATA STRUCTURES & ALGORITHMS USING JAVA
+==========================================================================================
 
-Batch Schedule: 11-Dec-2025   To   08-Jan-2026
-Schedule: Mon-Fri
-Duration: 1 Month
-Timings: 11:00 AM  To  12:30 PM
-Fees: Rs. 3000/-
+Course Name : Data Structures and Algorithms
+Batch Schedule : 29-Jan-2026   To   20-Feb-2026
+Schedule : Weekdays - (Mon-Sat)
+Duration : 60 HRS
+Timings : 5:00 PM  To  8:00 PM
+Fees : Rs. 7000/- 5900 Early Bird Offer
 
-----------------------------------------------------------------------------------------------------
+SYLLABUS
+- Algorithm Analysis:
+Time complexity
+Space complexity
+- Time complexity
+- Space complexity
+- Linked List:
+Array advantages and disadvantages
+Linked List concept
+Linear Singly Linked List
+Circular Singly Linked List
+Linear and Circular Doubly Linked List
+Complexity analysis of Linked List operations
+- Array advantages and disadvantages
+- Linked List concept
+- Linear Singly Linked List
+- Circular Singly Linked List
+- Linear and Circular Doubly Linked List
+- Complexity analysis of Linked List operations
+- Stack:
+Stack concept
+Stack using Array
+Stack using Linked List
+Expresion conversion & evaluation (prefix, infix and postfix)
+Parenthesis balancing
+Complexity analysis of Stack operations
+- Stack concept
+- Stack using Array
+- Stack using Linked List
+- Expresion conversion & evaluation (prefix, infix and postfix)
+- Parenthesis balancing
+- Complexity analysis of Stack operations
+- Queue:
+Queue concept & types
+Queue using Array
+Queue using Linked List
+Complexity analysis of Queue operations
+- Queue concept & types
+- Queue using Array
+- Queue using Linked List
+- Complexity analysis of Queue operations
+- Sorting:
+Selection sort
+Bubble sort
+Insertion sort
+Quick sort
+Merge sort
+Heap sort
+Complexity analysis of sorting algorithms
+- Selection sort
+- Bubble sort
+- Insertion sort
+- Quick sort
+- Merge sort
+- Heap sort
+- Complexity analysis of sorting algorithms
+- Searching:
+Linear Search
+Binary Search
+Hashing
+Complexity analysis of searching algorithms
+- Linear Search
+- Binary Search
+- Hashing
+- Complexity analysis of searching algorithms
+- Tree:
+Tree concept & types
+Tree traversal (Inorder, Preorder and Postorder)
+Binary Search Tree (BST) implementation
+BST: add node, travsersal, delete node, balancing, BFS & DFS.
+Complexity analysis of BST algorithms
+- Tree concept & types
+- Tree traversal (Inorder, Preorder and Postorder)
+- Binary Search Tree (BST) implementation
+- BST: add node, travsersal, delete node, balancing, BFS & DFS.
+- Complexity analysis of BST algorithms
+- Graph:
+Graph concept & types
+Adjacency Matrix implementation
+Adjacency List implementation
+Spanning Tree algorithms: Prim’s MST, Kruskal’s MST
+Shortest Path algorithms: Dijkstra, Bellaman Ford, Warshal Floyd
+Search algorithms: BFS, DFS, A* search
+Complexity analysis of Graph algorithms
+- Graph concept & types
+- Adjacency Matrix implementation
+- Adjacency List implementation
+- Spanning Tree algorithms: Prim’s MST, Kruskal’s MST
+- Shortest Path algorithms: Dijkstra, Bellaman Ford, Warshal Floyd
+- Search algorithms: BFS, DFS, A* search
+- Complexity analysis of Graph algorithms
 
-MERN (FULL-STACK) DEVELOPMENT
+PRE-REQUISITES
+- Java Programming: Class & Object, Generics, Java collections (Array list).
 
-Batch Schedule: 02-Jun-2025   To   03-Jul-2025
-Schedule: Mon-Thu
-Duration: 40 hrs.
-Timings: 09:00 PM  To  11:00 PM
-Fees: Rs. 9100/-
+BATCH SCHEDULE
+Batch Code: DSA-O-12 | Start: 29-Jan-2026 | End: 20-Feb-2026 | Time: 5:00 PM  To  8:00 PM
 
-1. Syllabus
-NODE
-Introduction
 
-----------------------------------------------------------------------------------------------------
+==========================================================================================
+COURSE: MASTERING GENERATIVE AI
+==========================================================================================
 
-MLOPS & LLMOPS
+Course Name : Mastering GenAI
+Batch Schedule : 14-Jul-2025   To   03-Sep-2025
+Schedule : Mon - Thu
+Duration : 60 Hrs
+Timings : 9:00 PM  To  11:00 PM
+Fees : Rs. 17900/-
 
-Batch Schedule: 24-Nov-2025   To   05-Dec-2025
-Schedule: Monday to Friday (9pm to 11pm)
-Duration: 2 weeks
-Timings: 9:00 PM  To  11:00 PM
-Fees: Rs. 8000/- Special Offer for Sunbeam Alumni 5900
+SYLLABUS
+- Overview of Statistics
+Definition and importance of statistics
+Types of statistics: descriptive and inferential
+Role of statistics in data science and machine learning
+Basic statistical terminology (population, sample, parameter, statistic)
+- Definition and importance of statistics
+- Types of statistics: descriptive and inferential
+- Role of statistics in data science and machine learning
+- Basic statistical terminology (population, sample, parameter, statistic)
+- Sampling
+Sampling methods
+sampling distributions
+Central Limit Theorem
+- Sampling methods
+- sampling distributions
+- Central Limit Theorem
+- Descriptive Statistics
+Measures of central tendency (mean, median, mode)
+measures of variability (range, variance, standard deviation)
+skewness and kurtosis
+- Measures of central tendency (mean, median, mode)
+- measures of variability (range, variance, standard deviation)
+- skewness and kurtosis
+- Probability:
+Basic concepts of probability, conditional probability
+Bayes' theorem.
+Random variables and probability distributions
+- Basic concepts of probability, conditional probability
+- Bayes' theorem.
+- Random variables and probability distributions
+- Distributions:
+Normal distribution
+Binomial distribution
+Poisson distribution
+Uniform distribution
+- Normal distribution
+- Binomial distribution
+- Poisson distribution
+- Uniform distribution
+- Hypothesis Testing:
+Null and alternative hypotheses
+Type I and Type II errors
+P-values
+Confidence intervals
+- Null and alternative hypotheses
+- Type I and Type II errors
+- P-values
+- Confidence intervals
+- Correlation Analysis:
+Pearson correlation
+Spearman's rank correlation
+- Pearson correlation
+- Spearman's rank correlation
+- Time Series Analysis:
+Trend analysis
+Seasonality
+Moving averages
+ARMA models
+ARIMA models
+- Trend analysis
+- Seasonality
+- Moving averages
+- ARMA models
+- ARIMA models
+- Data Visualization:
+Importance of data visualization
+Principles of effective data visualization
+Common visualization techniques:
+  Histograms
+  Box plots
+  Scatter plots
+  Heatmaps
+  Bar charts
+- Importance of data visualization
+- Principles of effective data visualization
+- Common visualization techniques:
+  Histograms
+  Box plots
+  Scatter plots
+  Heatmaps
+  Bar charts
+- Histograms
+- Box plots
+- Scatter plots
+- Heatmaps
+- Bar charts
+- Data Preprocessing
+Data cleaning and handling missing values
+Data transformation (normalization, standardization)
+Feature engineering and selection
+Encoding categorical variables
+Handling imbalanced datasets
+Data splitting (training, validation, test sets)
+Data augmentation techniques
+Outlier detection and handling
+- Data cleaning and handling missing values
+- Data transformation (normalization, standardization)
+- Feature engineering and selection
+- Encoding categorical variables
+- Handling imbalanced datasets
+- Data splitting (training, validation, test sets)
+- Data augmentation techniques
+- Outlier detection and handling
+- Introduction to Machine Learning
+Overview of machine learning
+Types of machine learning:
+supervised learning
+unsupervised learning
+reinforcement learning
+semi-supervised learning
+Applications of machine learning
+Challenges and limitations of machine learning
+- Overview of machine learning
+- Types of machine learning:
+supervised learning
+unsupervised learning
+reinforcement learning
+semi-supervised learning
+- supervised learning
+- unsupervised learning
+- reinforcement learning
+- semi-supervised learning
+- Applications of machine learning
+- Challenges and limitations of machine learning
+- Regression Analysis
+Overview of regression analysis
+Algorithms for regression:
+ Linear regression
+ Ridge regression
+ Lasso regression
+Assumptions of regression analysis
+Model evaluation metrics (R-squared, adjusted R-squared, RMSE, MAE)
+Model interpretation and communication of results
+Applications of regression analysis
+- Overview of regression analysis
+- Algorithms for regression:
+ Linear regression
+ Ridge regression
+ Lasso regression
+- Linear regression
+- Ridge regression
+- Lasso regression
+- Assumptions of regression analysis
+- Model evaluation metrics (R-squared, adjusted R-squared, RMSE, MAE)
+- Model interpretation and communication of results
+- Applications of regression analysis
+- Classification
+Overview of classification
+Types of classification
+Evaluation metrics for classification (Confusion matrix, accuracy, precision, recall, F1-score, ROC-AUC)
+Algorithms for classification:
+Decision trees
+k-nearest neighbors (k-NN)
+Naive Bayes
+Ensemble methods (Bagging, Boosting, Stacking)
+Hyperparameter tuning and model selection
+Cross-validation techniques
+Applications of classification
+- Overview of classification
+- Types of classification
+- Evaluation metrics for classification (Confusion matrix, accuracy, precision, recall, F1-score, ROC-AUC)
+- Algorithms for classification:
+Decision trees
+k-nearest neighbors (k-NN)
+Naive Bayes
+- Decision trees
+- k-nearest neighbors (k-NN)
+- Naive Bayes
+- Ensemble methods (Bagging, Boosting, Stacking)
+- Hyperparameter tuning and model selection
+- Cross-validation techniques
+- Applications of classification
+- Clustering
+Overview of clustering
+Types of clustering:
+K-means clustering
+Hierarchical clustering
+Evaluation metrics for clustering (Silhouette score)
+- Overview of clustering
+- Types of clustering:
+K-means clustering
+Hierarchical clustering
+- K-means clustering
+- Hierarchical clustering
+- Evaluation metrics for clustering (Silhouette score)
+- Dimensionality Reduction
+Overview of dimensionality reduction
+Importance of dimensionality reduction
+Techniques for dimensionality reduction:
+ Principal Component Analysis (PCA)
+- Overview of dimensionality reduction
+- Importance of dimensionality reduction
+- Techniques for dimensionality reduction:
+ Principal Component Analysis (PCA)
+- Principal Component Analysis (PCA)
+- Introduction to Deep Learning
+Overview of deep learning
+Differences between traditional machine learning and deep learning
+Applications of deep learning in various domains
+Challenges and limitations of deep learning
+Overview of generative AI
+Applications of generative AI in various domains
+Challenges and limitations of generative AI
+- Overview of deep learning
+- Differences between traditional machine learning and deep learning
+- Applications of deep learning in various domains
+- Challenges and limitations of deep learning
+- Overview of generative AI
+- Applications of generative AI in various domains
+- Challenges and limitations of generative AI
+- Deep Learning Frameworks
+Overview of popular deep learning frameworks (TensorFlow, PyTorch, Keras)
+Overview of generative AI frameworks (Huggingface, Langchain)
+Setting up the environment
+- Overview of popular deep learning frameworks (TensorFlow, PyTorch, Keras)
+- Overview of generative AI frameworks (Huggingface, Langchain)
+- Setting up the environment
+- Artificial Neural Networks (ANNs)
+Feedforward neural networks
+what is a perceptron
+Multi-layer perceptrons (MLPs)
+Activation functions (ReLU, sigmoid, tanh)
+Loss functions (mean squared error, cross-entropy)
+Regression and classification using ANNs
+Model evaluation metrics (accuracy, precision, recall, F1-score)
+Model interpretability
+Applications of ANNs in real-world scenarios
+Hands-on: Build and train ANN model for regression and classification tasks
+- Feedforward neural networks
+- what is a perceptron
+- Multi-layer perceptrons (MLPs)
+- Activation functions (ReLU, sigmoid, tanh)
+- Loss functions (mean squared error, cross-entropy)
+- Regression and classification using ANNs
+- Model evaluation metrics (accuracy, precision, recall, F1-score)
+- Model interpretability
+- Applications of ANNs in real-world scenarios
+- Hands-on: Build and train ANN model for regression and classification tasks
+- Convolutional Neural Networks (CNNs)
+Overview of CNNs and their architecture
+Convolutional layers and filters
+Pooling layers (max pooling, average pooling)
+Flattening and fully connected layers
+Applications of CNNs in image processing and computer vision
+Hands-on: Build and train a CNN for image classification
+- Overview of CNNs and their architecture
+- Convolutional layers and filters
+- Pooling layers (max pooling, average pooling)
+- Flattening and fully connected layers
+- Applications of CNNs in image processing and computer vision
+- Hands-on: Build and train a CNN for image classification
+- Recurrent Neural Networks (RNNs)
+Overview of RNNs and their architecture
+ANN vs CNN vs RNN
+Long Short-Term Memory (LSTM) networks
+Gated Recurrent Units (GRUs)
+Applications of RNNs in natural language processing and time series analysis
+Hands-on: Build and train an RNN for text classification or time series prediction
+- Overview of RNNs and their architecture
+- ANN vs CNN vs RNN
+- Long Short-Term Memory (LSTM) networks
+- Gated Recurrent Units (GRUs)
+- Applications of RNNs in natural language processing and time series analysis
+- Hands-on: Build and train an RNN for text classification or time series prediction
+- Generative Adversarial Networks (GANs)
+Overview of GANs and their architecture
+Generator and discriminator networks
+Training GANs and challenges
+Applications of GANs in image generation and data augmentation
+Variants of GANs (DCGAN, CycleGAN, StyleGAN)
+Hands-on: Build and train a GAN for image generation
+- Overview of GANs and their architecture
+- Generator and discriminator networks
+- Training GANs and challenges
+- Applications of GANs in image generation and data augmentation
+- Variants of GANs (DCGAN, CycleGAN, StyleGAN)
+- Hands-on: Build and train a GAN for image generation
+- Transfer Learning
+Overview of transfer learning
+Fine-tuning pre-trained models
+Applications of transfer learning in various domains
+Hands-on: Fine-tune a pre-trained model for a specific task
+- Overview of transfer learning
+- Fine-tuning pre-trained models
+- Applications of transfer learning in various domains
+- Hands-on: Fine-tune a pre-trained model for a specific task
+- Natural Language Processing (NLP)
+Overview of NLP and its applications
+Text preprocessing techniques (tokenization, stemming, lemmatization)
+Word embeddings (Word2Vec, GloVe, FastText)
+Sequence-to-sequence models
+Attention mechanisms in NLP
+Named Entity Recognition (NER)
+Sentiment analysis
+Fine-tuning pre-trained models for NLP tasks
+Hands-on: Build and train an NLP model for text classification or sentiment analysis
+- Overview of NLP and its applications
+- Text preprocessing techniques (tokenization, stemming, lemmatization)
+- Word embeddings (Word2Vec, GloVe, FastText)
+- Sequence-to-sequence models
+- Attention mechanisms in NLP
+- Named Entity Recognition (NER)
+- Sentiment analysis
+- Fine-tuning pre-trained models for NLP tasks
+- Hands-on: Build and train an NLP model for text classification or sentiment analysis
+- Large Language Models (LLMs)
+Overview of LLMs and their architecture
+Transformer architecture
+Attention mechanisms
+Pre-training and fine-tuning LLMs
+Applications of LLMs in natural language processing
+Hands-on: Fine-tune a pre-trained LLM for text generation or classification
+- Overview of LLMs and their architecture
+- Transformer architecture
+- Attention mechanisms
+- Pre-training and fine-tuning LLMs
+- Applications of LLMs in natural language processing
+- Hands-on: Fine-tune a pre-trained LLM for text generation or classification
+- Retrieval-Augmented Generation (RAG)
+Overview of RAG
+How RAG works
+Applications of RAG in natural language processing
+Challenges and limitations of RAG
+Future directions of RAG
+Hands-on: Build a RAG model for a specific task (e.g., chat with PDF, chat with CSV, chat with text)
+Evaluation metrics for RAG models
+Hands-on: Evaluate the performance of a RAG model
+- Overview of RAG
+- How RAG works
+- Applications of RAG in natural language processing
+- Challenges and limitations of RAG
+- Future directions of RAG
+- Hands-on: Build a RAG model for a specific task (e.g., chat with PDF, chat with CSV, chat with text)
+- Evaluation metrics for RAG models
+- Hands-on: Evaluate the performance of a RAG model
+- Agentic RAG
+Overview of agentic RAG
+How agentic RAG works
+Applications of agentic RAG in natural language processing
+Challenges and limitations of agentic RAG
+Future directions of agentic RAG
+Hands-on: Build an agentic RAG model for a specific task
+- Overview of agentic RAG
+- How agentic RAG works
+- Applications of agentic RAG in natural language processing
+- Challenges and limitations of agentic RAG
+- Future directions of agentic RAG
+- Hands-on: Build an agentic RAG model for a specific task
+- Fine tuning LLMs
+Overview of fine-tuning LLMs
+How to fine-tune LLMs
+Applications of fine-tuning LLMs in natural language processing
+Challenges and limitations of fine-tuning LLMs
+Future directions of fine-tuning LLMs
+Hands-on: Fine-tune an LLM for a specific task
+- Overview of fine-tuning LLMs
+- How to fine-tune LLMs
+- Applications of fine-tuning LLMs in natural language processing
+- Challenges and limitations of fine-tuning LLMs
+- Future directions of fine-tuning LLMs
+- Hands-on: Fine-tune an LLM for a specific task
 
-----------------------------------------------------------------------------------------------------
+PRE-REQUISITES
+- Beginners with basic python knowledge
 
-PYTHON DEVELOPMENT
+BATCH SCHEDULE
+Batch Code: AI-O-002(Combo A+B) | Start: 14-Jul-2025 | End: 03-Sep-2025 | Time: 9:00 PM  To  11:00 PM
+Batch Code: Mastering-AI-Basics-O-01(A) | Start: 14-Jul-2025 | End: 06-Aug-2025 | Time: 9:00 PM  To  11:00 PM
+Batch Code: Mastering-AI-ADV-O-01(B) | Start: 07-Aug-2025 | End: 03-Sep-2025 | Time: 9:00 PM  To  11:00 PM
 
-Batch Schedule: 23-Jan-2026   To   20-Feb-2026
-Schedule: Mon - Fri
-Duration: 50 hrs.
-Timings: 8:00 AM  To  10:30 AM
-Fees: Rs. 8100/- 6800 Early Bird Offer
 
-----------------------------------------------------------------------------------------------------
+==========================================================================================
+COURSE: APTITUDE TRAINING
+==========================================================================================
+
+Course Name : Aptitude  
+Batch Schedule : 02-Feb-2026   To   23-Feb-2026
+Schedule : Mon - Fri
+Duration : 30 hrs.
+Timings : 5:00 PM  To  7:00 PM
+Fees : Rs. 4000/- 3400 Early Bird Offer
+
+COURSE CONTENT
+- English -  (nouns,pronouns,verbs,adjectives,adverbs,prepositions,conjuction,articles,Tenses, Voice,Direct Indirect Speech, Idioms, Synonyms & Antonyms, Reading Comprehension )
+- Reasoning - (Analogy, Coding and Decoding, Syllogism, Blood Relations, Seating Arrangements, Puzzles, Directions, Data Sufficiency, Numerical Series, Ranking & Ordering)
+- Quantitative - (Number System, Percentage, Profit and Loss, Ratio & Proportion, Partnership, Average, Ages, Mixture & Alligation, Simple Interest & Compound Interest, cyclicity and remainder, Time Speed & Distance, Trains Boats & Streams, Time & Work, Wages (man Days), Pipes & Cisterns, Permutations & Combinations, Probability, Problems on Ages, Surds And Indices)
+- Test Series
+
+BATCH SCHEDULE
+Batch Code: Aptitude-O-02 | Start: 02-Feb-2026 | End: 23-Feb-2026 | Time: 5:00 PM  To  7:00 PM
+
+
+==========================================================================================
+COURSE: MASTERING MCQs
+==========================================================================================
+
+Course Name : Mastering MCQs  
+Batch Schedule : 11-Dec-2025   To   08-Jan-2026
+Schedule : Mon-Fri
+Duration : 1 Month
+Timings : 11:00 AM  To  12:30 PM
+Fees : Rs. 3000/-
+
+COURSE CONTENT
+- Aptitude, Reasoning, English
+- Computer Fundamentals & Concepts of Programming
+- C Programming, C++
+- Data Structure, Operating Systems
+- Data Communication Networking
+- Big Data, Al
+- Computer Architecture, Digital Electronics, and Microprocessors
+
+BATCH SCHEDULE
+Batch Code: Mastering MCQs-O-03 For C-CAT & MNC Interviews | Start: 11-Dec-2025 | End: 08-Jan-2026 | Time: 11:00 AM  To  12:30 PM
+
+
+==========================================================================================
+COURSE: APACHE SPARK MASTERY (DATA ENGINEERING WITH PYSPARK)
+==========================================================================================
+
+Course Name : Apache Spark Mastery - Data Engineering with PySpark
+Batch Schedule : 16-Aug-2025   To   17-Sep-2025
+Schedule : Mon-Sat
+Duration : 50 hrs.
+Timings : 7:00 PM  To  9:00 PM
+Fees : Rs. 14900/-(Inc.18% GST)
+
+SYLLABUS
+Section 1: Spark Architecture & Internals
+- Distributed Computing Fundamentals
+  - RDD lineage, DAG scheduler, lazy evaluation
+  - Cluster managers overview
+- Spark 4.x Updates
+  - Adaptive Query Execution (AQE) enhancements
+  - Catalyst optimizer improvements
+- Performance Tuning
+  - Joins
+  - Partitioning, broadcast variables
+  - Memory management
+Section 2: PySpark DataFrames & SQL
+- Data Manipulation
+  - Complex types (JSON, arrays, maps)
+  - Window functions, pivot tables, UDFs/Pandas UDFs
+- Spark SQL Deep Dive
+  - Temp views, catalog API, Hive metastore integration
+  - SQL syntax for Delta Lake operations
+- Execution Plans
+  - Reading `explain()` output
+  - Predicate pushdown, partition pruning
+Section 3: Incremental Data Processing & Apache Kafka
+- Structured Streaming
+  - Event-time processing, watermarking, state management
+  - Kafka integration (source/sink)
+- Delta Lake Essentials
+  - ACID transactions
+  - Schema evolution
+Section 4: Spark Optimizations
+- Catalyst Internals
+  - Logical vs. physical plans
+  - Custom optimization extensions
+- Performance Best Practices
+  - File formats (Parquet/Delta)
+  - Resource allocation (executors/cores)
+Section 5: Databricks Lakehouse Platform
+- Lakehouse fundamentals
+- Workspace Navigation
+  - DBFS, clusters, notebooks
+- Delta Lake UI
+  - Viewing table history/schema
+- Data Governance
+  - Unity Catalog basics (no Admin tasks)
+Section 6: Apache Kafka Fundamentals  
+- Architecture
+  - Brokers, topics, partitions, consumer groups
+- Spark-Kafka Integration
+  - Structured Streaming with Kafka
+  - Job execution
+Section 7: Spark ML Introduction
+- MLlib Workflow
+  - Transformers vs. estimators, pipelines
+  - Feature engineering (VectorAssembler, StringIndexer)
+- Model Training
+  - Regression demo (no hyperparameter tuning)
+Section 8: Capstone Project
+- Pipeline implementation
+- Domain Examples: IoT monitoring, retail analytics
+  CLICK TO REGISTER
+
+PRE-REQUISITES
+1. Python: Language Fundamentals, Functions, Collections, Pandas, ...
+2. SQL: CRUD Operations, Group By, Joins, Analytical queries, …
+3.Good to have: Linux basics, Hadoop/Hive knowledge beneficial
+CLICK TO REGISTER
+
+BATCH SCHEDULE
+Batch Code: Spark-O-04 | Start: 16-Aug-2025 | End: 17-Sep-2025 | Time: 7:00 PM  To  9:00 PM
+
+
+==========================================================================================
+COURSE: MLOps & LLMOps
+==========================================================================================
+
+Course Name : MLOps & LLMOps
+Batch Schedule : 24-Nov-2025   To   05-Dec-2025
+Schedule : Monday to Friday (9pm to 11pm)
+Duration : 2 weeks
+Timings : 9:00 PM  To  11:00 PM
+Fees : Rs. 8000/- Special Offer for Sunbeam Alumni 5900
+
+SYLLABUS
+- Experiment Tracking: MLFlow, Weights and Biases
+- Data and model versioning: dvc and LakeFS
+- Containerization of models: Docker
+- MLOps Pipeline: KubeFlow and MLFlow
+- Model serving: KServe, Tensorflow Serving
+- CI/CD for MLOps: Jenkins and GitHub Actions
+- Observability: ELK
+- Monitoring: Prometheus and Grafana
+
+PRE-REQUISITES
+Python Libraries: numpy, pandas, matplotlib, sci-kit learn, pytorch
+SCM: git
+CI/CD Pipeline:
+Jenkins and GitHub Actions: scripted pipeline configuration
+Containerization:
+Docker: installation and configuration, building custom images, containers, volumes, networks, port forwarding
+Container Orchestration:
+Kubernetes: cluster management, namespaces, pods, policies, services, configmap, secrets, networking, storage, autoscaling
+Cloud:
+AWS: EC2, ELB, Autoscaling, VPC, S3, Lambda, DevOps on AWS
+Infrastructure as a code:
+Terraform: AWS infrastructure management
+Model building using scikit-learn and pytorch or tensorflow
+CLICK TO REGISTER
+
+BATCH SCHEDULE
+Batch Code: MLOps and LLMOps (O-01) | Start: 24-Nov-2025 | End: 05-Dec-2025 | Time: 9:00 PM  To  11:00 PM
+
+
+==========================================================================================
+COURSE: DREAM LLM
+==========================================================================================
+
+Course Name : Dream LLM
+Batch Schedule : 05-Jan-2026   To   09-Feb-2026
+Schedule : Monday - Thursday
+Duration : 5 weeks
+Timings : 9:00 PM  To  11:00 PM
+Fees : Rs. INR 20000/- 12000/-(Inc.18% GST)
+
+SYLLABUS
+- Introduction to LLM
+What is large language model?
+Types of LLM
+Applications of LLM
+Requirements of DreamLLM
+- What is large language model?
+- Types of LLM
+- Applications of LLM
+- Requirements of DreamLLM
+- Mathematics and Pytorch required for LLM
+Vectors
+Matrices
+Tensors
+Linear Algebra
+All maths topics with Pytorch implementation
+- Vectors
+- Matrices
+- Tensors
+- Linear Algebra
+- All maths topics with Pytorch implementation
+- Introduction to Deep Learning
+Difference between ML and DL
+Neural network architecture
+Introduction to forward and backward propagation
+- Difference between ML and DL
+- Neural network architecture
+- Introduction to forward and backward propagation
+- Why should you build DreamLLM?
+Strategies of building LLM
+Fine tuning vs creating custom LLM
+Supervised (labelled) vs unsupervised (unlabelled) training custom LLM
+Architecture of DreamLLM
+- Strategies of building LLM
+- Fine tuning vs creating custom LLM
+- Supervised (labelled) vs unsupervised (unlabelled) training custom LLM
+- Architecture of DreamLLM
+- Transformers
+Relationship between LLM and transformer
+Introduction to transformers
+Transformer architecture
+Types of transformers
+- Relationship between LLM and transformer
+- Introduction to transformers
+- Transformer architecture
+- Types of transformers
+- Understanding data
+Data requirements to train DreamLLM
+Preprocessing the data
+Tokenization
+Custom tokenization
+Embeddings basics
+Byte pair encoding
+- Data requirements to train DreamLLM
+- Preprocessing the data
+- Tokenization
+Custom tokenization
+Embeddings basics
+Byte pair encoding
+- Custom tokenization
+- Embeddings basics
+- Byte pair encoding
+- Processing data using sequence modelling
+Introduction to RNN (LSTM and GRU)
+Introduction and requirement of attention mechanism
+Implementing attention mechanism
+Self attention mechanism
+Single head
+Multi head
+- Introduction to RNN (LSTM and GRU)
+- Introduction and requirement of attention mechanism
+- Implementing attention mechanism
+Self attention mechanism
+Single head
+Multi head
+- Self attention mechanism
+- Single head
+- Multi head
+- Creating LLM from scratch
+Deciding the layers, activation functions
+Implementing feed forward network
+Generating text using custom LLM
+- Deciding the layers, activation functions
+- Implementing feed forward network
+- Generating text using custom LLM
+- Fine tuning for further tasks
+Fine tuning the DreamLLM on labelled data
+Fine tuning the DreamLLM on unlabelled data
+Evaluation of DreamLLM
+- Fine tuning the DreamLLM on labelled data
+- Fine tuning the DreamLLM on unlabelled data
+- Evaluation of DreamLLM
+- Deploying the DreamLLM
+Use AWS cloud for deployment
+Automate the deployment using AWS DevOps tools
+- Use AWS cloud for deployment
+- Automate the deployment using AWS DevOps tools
+
+PRE-REQUISITES
+- Basic to intermediate Python programming (loops, functions, lists, dictionaries, basics of classes)
+- Basic understanding of ML concepts (what a model, training, and loss mean)
+- High-level math intuition: addition, subtraction, multiplication and division    
+- Familiarity with PyTorch or NumPy is helpful but not mandatory
+- A laptop with 8 GB RAM (GPU recommended but not required)
+- Curiosity and willingness to learn how LLMs work internally (not just use APIs)
+CLICK TO REGISTER
+
+BATCH SCHEDULE
+Batch Code: DreamLLM-O-01 | Start: 05-Jan-2026 | End: 09-Feb-2026 | Time: 9:00 PM  To  11:00 PM
 
