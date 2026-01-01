@@ -2,3 +2,8 @@ envp/
 .env
 courses_db/
 __pycache__/
+__pycache__/
+.env
+*.pyc
+*.pyo
+venv/

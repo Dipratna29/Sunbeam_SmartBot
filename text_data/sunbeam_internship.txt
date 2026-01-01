@@ -1,0 +1,126 @@
+PAGE: INTERNSHIP
+
+It is really difficult to sustain competitive edge of an industry. No matter you are an employer, employee or an entrepreneur.
+
+Technology, innovations and business trends has added diversified change to the organizational process. Individual should acquire proficiency, mainly in technical and develop personal skills to adapt these industry dynamics.
+
+We at Sunbeam are known for providing IT training, solutions, and services. Our training approach contemplate our students to take a wise decision and distinguish Sunbeam as elite institute. Our innovative training methods, use of adequate technology, and emphasis on specific program adds value to success of Sunbeam.
+
+Team at Sunbeam is young, energetic, and committed. Our team can nurture strong technical foundation and build the most progressive career of a candidate in the Industry. Team Sunbeam will challenge and will definitely inspire you. Spend your good time with our team and it will definitely change your life.
+
+
+SECTION: Student Industrial Training & Internship
+List of Internship Program
+Sr.No.
+Duration
+Structure
+Mode
+1
+1 Month
+1 month of comprehensive training
+Concurrent execution of a mini project
+Offline mode at Sunbeam campus
+2
+2 months
+Training sessions for relevant technologies
+Execution of 2 mini projects based on selected technology
+One mini project to be developed in offline mode at Sunbeam campus.
+One mini project to be developed in online mode.
+3
+6 months
+In-depth training program during the entire internship
+One mini project to be developed and one project to be developed with enhanced features based on specific technology.
+One mini project to be developed in offline mode at Sunbeam campus.
+One project to be developed with enhanced features based on specific technology in online mode.
+
+SECTION: Training And Industrial Program Features
+- Hands-On Experience - Practical learning through project-based activities aligned with industry standards.
+- Structured Training - Receive comprehensive training sessions tailored to the duration and focus area of the internship.
+- Project Development - Work on mini and elaborative project using conceptual knowledge for real-world scenarios.
+- Mentorship - Guidance from experts throughout the internship period.
+- Evaluation and Feedback - Participate in regular review meetings via Zoom for project evaluation and feedback.
+- Reporting - Project Evaluation Report will be shared with the respective college where candidate is from. In case candidate joins this program directly without any reference of college in such case report will be shared directly to the candidate.
+
+SECTION: Placements
+- We help students prepare for the Campus Placement Programme. The PPP is a training module to improve the student’s employability skills.
+
+SECTION: Benefits Of Program
+SUNBEAM TECHNOLOGY OFFERINGS FOR STUDENTS
+At Sunbeam, we offer a wide range of technology programs tailored to the needs of students in computer science, information technology, and electronics. Each program aims to equip students with practical skills and knowledge essential for their career growth. Below is a detailed list of the technologies we provide, along with their respective locations:
+- Gain practical skills and industry exposure.
+- Enhance your resume with hands-on project experience.
+- Receive guidance and mentorship from industry experts.
+- Be a part of a network with professionals and peers in specific field.
+- Earn a certificate upon successful completion of the program.
+
+SECTION: Our Associates
+
+SECTION: Available Internship Programs
+Technology
+Aim
+Prerequisite
+Learning
+Location
+Generative AI
+Create intelligent applications with LLMs.
+Python, Database
+Advanced Python, LLM models, Ollama, LangChain, Streamlit, Prompt engineering, HuggingFaces
+Hinjawadi
+Android Mobile App Development
+Develop Android Mobile Application
+Java Programming, Database, JS
+Android Programming (Java), Express JS server
+Hinjawadi
+C Programming
+System application development with GUI
+Basic C Programming
+Revision of structs and File IO, System programming, GUI programming in C
+Hinjawadi & Marketyard
+Java Programming
+Desktop application development with GUI
+Basic Java Programming
+Revision of Collections and File IO, GUI programming in Java
+Hinjawadi, Marketyard & Karad
+Web Programming
+Web Application Development
+HTML, JS, CSS, SQL basics
+Node JS, REST services using Express, jQuery, Advanced SQL
+Hinjawadi & Karad
+Python Web Development
+Python-based Web Application Development
+Python, HTML, JS, CSS, SQL basics
+Python Flask/Database connectivity, REST services, jQuery, Advanced SQL
+Hinjawadi
+Data Science (ML)
+Exploring & Visualizing data and Machine learning using Python.
+Python Programming
+Advanced Python, ML models, Power BI, Flask
+Hinjawadi
+.NET
+Web application development using .NET
+C#
+.NET Web MVC, application development
+Karad / Hinjawadi
+CYBER SECURITY
+Build and manage secure IT infrastructure.
+Networking & Linux Basics
+Configure essential network services, implement firewall solutions, secure web servers with certificates, deploy intrusion detection systems, and work with virtualized environments
+Hinjawadi
+ARM Micro-controller
+Develop ARM Cortex-M firmware with embedded communication protocols and sensor interfacing
+C Programming, Basic electronics
+Cortex-M embedded programming
+Hinjawadi
+- Internship program available for Computer Science, Information Technology, and Electronics Students
+
+TABLE: Internship Batches Schedule :
+Sr.No: 1 | Batch: IIT-08-H-A-MERN | Batch Duration: 1 Month | Start Date: 10-Dec-2025 | End Date: 05-Jan-2026 | Time: 8:00 AM  To  4:00 PM | Fees (Rs.): 4000/-/- | Download Brochure: 
+Sr.No: 2 | Batch: IIT-08-H-A-Android | Batch Duration: 1 Month | Start Date: 10-Dec-2025 | End Date: 05-Jan-2026 | Time: 8:00 AM  To  4:00 PM | Fees (Rs.): 4000/- | Download Brochure: 
+Sr.No: 3 | Batch: IIT-08-H-A-Internet of Things | Batch Duration: 1 Month | Start Date: 10-Dec-2025 | End Date: 05-Jan-2026 | Time: 8:00 AM  To  4:00 PM | Fees (Rs.): 4000/- | Download Brochure: 
+Sr.No: 4 | Batch: IIT-08-H-A-ARM Micro-controller | Batch Duration: 1 Month | Start Date: 10-Dec-2025 | End Date: 05-Jan-2026 | Time: 8:00 AM  To  4:00 PM | Fees (Rs.): 4000/- | Download Brochure: 
+Sr.No: 5 | Batch: IIT-08-H-A-Generative AI | Batch Duration: 1 Month | Start Date: 10-Dec-2025 | End Date: 05-Jan-2026 | Time: 8:00 AM  To  4:00 PM | Fees (Rs.): 4000/- | Download Brochure: 
+Sr.No: 6 | Batch: IIT-08-H-A-Java Programming | Batch Duration: 1 Month | Start Date: 10-Dec-2025 | End Date: 05-Jan-2026 | Time: 8:00 AM  To  4:00 PM | Fees (Rs.): 4000/- | Download Brochure: 
+Sr.No: 7 | Batch: IIT-08-H-A-.net | Batch Duration: 1 Month | Start Date: 10-Dec-2025 | End Date: 05-Jan-2026 | Time: 8:00 AM  To  4:00 PM | Fees (Rs.): 4000/- | Download Brochure: 
+Sr.No: 8 | Batch: IIT-08-H-A-Web Programming using Python | Batch Duration: 1 Month | Start Date: 10-Dec-2025 | End Date: 05-Jan-2026 | Time: 8:00 AM  To  4:00 PM | Fees (Rs.): 4000/- | Download Brochure: 
+Sr.No: 9 | Batch: IIT-08-H-A-Data Science (ML) | Batch Duration: 1 Month | Start Date: 10-Dec-2025 | End Date: 05-Jan-2026 | Time: 8:00 AM  To  4:00 PM | Fees (Rs.): 4000/- | Download Brochure: 
+Sr.No: 10 | Batch: IIT-08-H-A-Cyber Security | Batch Duration: 1 Month | Start Date: 10-Dec-2025 | End Date: 05-Jan-2026 | Time: 8:00 AM  To  4:00 PM | Fees (Rs.): 4000/- | Download Brochure: 
