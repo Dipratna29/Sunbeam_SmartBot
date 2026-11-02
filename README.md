@@ -2,11 +2,22 @@
 
 A RAG chatbot that answers questions about [Sunbeam Institute](https://www.sunbeaminfo.in): courses, syllabus, batch schedules, internships and prerequisites.
 
+**Live app:** https://sunbeamsmartbot-puhaznkqwh57qx95vydhnz.streamlit.app
+
 **Stack:** Streamlit UI · LangChain · Chroma vector DB · `all-MiniLM-L6-v2` embeddings · Groq LLM (`openai/gpt-oss-120b`) · Selenium scrapers
 
 ```
 sunbeaminfo.in ──(Selenium scrapers)──► text_data/*.txt ──(embeddings)──► chroma_db/ ──► RAG + Groq ──► Streamlit chat
 ```
+
+## Features
+
+- Answers questions about courses, syllabus, fees, duration, prerequisites, batch schedules and internships
+- Answers only from scraped Sunbeam website data (no made-up answers)
+- Understands follow-up questions ("what are its fees?")
+- Streaming responses, multiple chat sessions, clear chat
+- Knowledge base rebuilds itself automatically when the data changes
+- Password-protected admin panel to re-scrape the website
 
 ## Project layout
 
@@ -85,7 +96,9 @@ The image uses CPU-only PyTorch and pre-builds the index at build time. It liste
 
 ## Troubleshooting
 
-- **"The language model request failed … model_decommissioned"**: Groq retired the model. Set `GROQ_MODEL` to a current one from [console.groq.com/docs/models](https://console.groq.com/docs/models).
+- **"Invalid API Key" (401)**: the Groq key is wrong or revoked. Create a new one at [console.groq.com/keys](https://console.groq.com/keys), update the Secrets (with quotes), then **Reboot app** so the new key is used.
+- **"model_decommissioned"**: Groq retired the model. Set `GROQ_MODEL` to a current one from [console.groq.com/docs/models](https://console.groq.com/docs/models).
+- **`ModuleNotFoundError` on Streamlit Cloud**: make sure `requirements.txt` is in the repo root, then reboot the app.
 - **Chroma error after upgrading packages**: delete the `chroma_db/` folder; it is rebuilt on the next start.
 - **`sqlite3` version error from Chroma on an old Linux host**: add `pysqlite3-binary` to requirements and put `__import__("pysqlite3"); import sys; sys.modules["sqlite3"] = sys.modules.pop("pysqlite3")` at the top of `streamlit_app.py`.
 - **A scraper fails**: the site's HTML changed. Course scrapers rely on fixed accordion IDs (e.g. `#collapse128`), so update the ID in the matching `scrapers/coursesN.py`.
