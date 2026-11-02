@@ -1,0 +1,4 @@
+# Extra dependency for re-scraping sunbeaminfo.in (python app.py).
+# Also needs Google Chrome or Chromium installed on the machine.
+-r requirements.txt
+selenium>=4.15

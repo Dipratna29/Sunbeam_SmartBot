@@ -1,5 +1,19 @@
+# Python
 __pycache__/
-.env
 *.pyc
 *.pyo
 venv/
+.venv/
+envpr/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Vector DB is rebuilt automatically from text_data/ on startup
+chroma_db/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp

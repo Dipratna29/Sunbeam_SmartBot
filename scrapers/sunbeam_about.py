@@ -11,7 +11,7 @@ class SunbeamAboutScraper:
         self.wait = wait
 
     def scrape_to_txt(self, output_path="text_data/sunbeam_about.txt"):
-        os.makedirs("text_data", exist_ok=True)
+        os.makedirs(os.path.dirname(output_path) or ".", exist_ok=True)
 
         url = "https://www.sunbeaminfo.in/about-us"
         self.driver.get(url)

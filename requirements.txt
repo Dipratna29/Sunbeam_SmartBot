@@ -1,0 +1,10 @@
+# Runtime dependencies for the Streamlit chatbot (Python 3.11 or 3.12 recommended)
+streamlit>=1.40
+python-dotenv>=1.0
+langchain-core>=0.3
+langchain-text-splitters>=0.3
+langchain-chroma>=0.2
+chromadb>=0.5
+langchain-huggingface>=0.1
+sentence-transformers>=3.0
+langchain-groq>=0.3

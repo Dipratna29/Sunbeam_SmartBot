@@ -100,7 +100,7 @@ class SunbeamInternshipScraper:
 
     # ✅ ADD THIS METHOD
     def scrape_to_txt(self, output_path="text_data/sunbeam_internship.txt"):
-        os.makedirs(os.path.dirname(output_path), exist_ok=True)
+        os.makedirs(os.path.dirname(output_path) or ".", exist_ok=True)
         data = self.scrape()
 
         with open(output_path, "w", encoding="utf-8") as f:

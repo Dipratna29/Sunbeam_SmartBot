@@ -11,7 +11,7 @@ class SunbeamAptitudeCourseScraper:
         self.wait = wait
 
     def scrape_to_txt(self, output_path="text_data/sunbeam_courses.txt"):
-        os.makedirs(os.path.dirname(output_path), exist_ok=True)
+        os.makedirs(os.path.dirname(output_path) or ".", exist_ok=True)
 
         url = "https://www.sunbeaminfo.in/modular-courses/aptitude-course-in-pune"
         self.driver.get(url)
